@@ -2,6 +2,7 @@
 
 WD <- getwd()
 
+
 ## Training data
 filePath <- paste(WD,"/UCI HAR Dataset/train", sep="", collapse=NULL)
 setwd(filePath)

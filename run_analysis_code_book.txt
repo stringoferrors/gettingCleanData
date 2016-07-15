@@ -1,6 +1,8 @@
 Feature Selection 
 =================
 
+
+
 Signals have been taken for subjects and activities across a selection.
 
 These signals were used to estimate variables of the feature vector for each pattern:  
