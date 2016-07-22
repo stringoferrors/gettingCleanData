@@ -67,4 +67,5 @@ for (i in 1:30){
 }
 df.means <- as.data.frame(GG)
 View(df.means)
+setwd("..")
 write.table(df.means, file="tableOfMeans.txt", row.names=FALSE)
